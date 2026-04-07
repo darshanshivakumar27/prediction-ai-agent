@@ -1,0 +1,7 @@
+apify-client
+langchain
+chromadb
+tiktoken
+requests
+beautifulsoup4
+pandas
